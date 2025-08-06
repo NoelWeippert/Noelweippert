@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hey, ich bin Noel!
 
-<!--
-**NoelWeippert/Noelweippert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Fachinformatiker für Daten- und Prozessanalyse  
+🚀 Azubi bei Koenig & Bauer  
+🛠️ Leidenschaft für Webentwicklung, Automatisierung & KI  
+📍 Aus Würzburg | 🇩🇪
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 Was ich mache:
+- 🧠 KI-Projekte (z. B. Formerkennung mit Python & NumPy)
+- 🌐 Webentwicklung (Frontend + Backend, PHP, JS, MySQL)
+- 📊 Datenanalyse & Prozessoptimierung im Unternehmen
+- 🧰 Toolbuilding für den Alltag (Spotify-Controller, Buchungssysteme)
+
+---
+
+### 🛠️ Sprachen & Tools:
+
+Python | PHP | JavaScript | SQL | HTML/CSS  
+MySQL | Bootstrap | Git | Bash | Linux  
